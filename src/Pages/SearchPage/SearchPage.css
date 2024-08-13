@@ -1,0 +1,17 @@
+.video-search-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 700px;
+    
+}
+
+.video{
+    margin-bottom: 20px;
+}
+.video-search-list img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
